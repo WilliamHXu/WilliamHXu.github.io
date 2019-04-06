@@ -10,6 +10,9 @@ William is an aspiring software developer with a versatile skill set experienced
 
 Led a team of five as a scrum master to complete a fully functional Java-based casino app that runs in the terminal. Personally responsible for casino floor, utility classes, interface design and overall application development and planning. 
 
+#### [Farmer Froilan](https://github.com/WilliamHXu/Maven.FarmerFroilan)
+
+Led a team of three as scrum master to create a simulatable Farm. Users can see the actions taken on the farm in a given work week. Personally responsible for architecting UML design, utilities and interfaces, work week behavior, crops, vehicle, and CRUD classes.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
