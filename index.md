@@ -1,6 +1,6 @@
 ## William Xu
 
-![](DSC_0849.JPG | width=200)
+<img src="DSC_0849.JPG" width="200"/>
 
 William is an aspiring software developer with a versatile skill set experienced in Statistics, Mathematics and Economics.  A detail-oriented leader with proven success working in corporate financial environments with a data-first approach, a strong desire to help others, and a passion for problem-solving.
 
