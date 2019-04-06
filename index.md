@@ -6,28 +6,10 @@ William is an aspiring software developer with a versatile skill set experienced
 
 
 ### Projects
-
 #### [High Roller Casino](https://github.com/WilliamHXu/Maven.Casino)
 
 Led a team of five as a scrum master to complete a fully functional Java-based casino app that runs in the terminal. Personally responsible for casino floor, utility classes, interface design and overall application development and planning. 
 
-```
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
