@@ -16,6 +16,10 @@ Led a team of three as scrum master to create a simulatable Farm. Users can see 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Main Github Repository
+### For More...
 
-If you would like to see any additional work, please take a look at my main [Github Repository page](https://github.com/WilliamHXu/).
+Thank you for visiting my Github page! If you would like to see any other work I've done, please take a look at my main [Github Repository page](https://github.com/WilliamHXu/). 
+
+If you are interested in seeing my most up-to-date resume, please refer to [this resume](https://docs.google.com/document/d/1UkQ-aXaBkkrvmiNFAs0za_h-TrQJWapYc-MHpMQJeMs/edit?usp=sharing).
+
+Finally, please feel free to reach out to me at my [LinkedIn](https://www.linkedin.com/in/william-xu-62479062/). Hope to hear from you soon!
