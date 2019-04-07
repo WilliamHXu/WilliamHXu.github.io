@@ -6,6 +6,11 @@ William is an aspiring software developer with a versatile skill set experienced
 
 
 ### Projects
+
+#### [MyLeague - In Development](https://github.com/WilliamHXu/MyLeague)
+
+MyLeague is an app which allows users to connect in leagues and gives leagues management tools to schedule, report matches, view standings, and organize their players. This is a full-stack development personal project.
+
 #### [High Roller Casino](https://github.com/WilliamHXu/Maven.Casino)
 
 Led a team of five as a scrum master to complete a fully functional Java-based casino app that runs in the terminal. Personally responsible for casino floor, utility classes, interface design and overall application development and planning. 
