@@ -25,6 +25,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Thank you for visiting my Github page! If you would like to see any other work I've done, please take a look at my main [Github Repository page](https://github.com/WilliamHXu/). 
 
-If you are interested in seeing my most up-to-date resume, please refer to [this resume](https://docs.google.com/document/d/1UkQ-aXaBkkrvmiNFAs0za_h-TrQJWapYc-MHpMQJeMs/edit?usp=sharing).
+If you are interested in seeing my most up-to-date resume, please refer to [this resume](https://docs.google.com/document/d/1RQsFfoA1O6Q971olRqS-fjhvMfiTxvewdjRFMrv9x54/edit?usp=sharing).
 
 Finally, please feel free to reach out to me at my [LinkedIn](https://www.linkedin.com/in/william-xu-62479062/). Hope to hear from you soon!
