@@ -19,8 +19,6 @@ Led a team of five as a scrum master to complete a fully functional Java-based c
 
 Led a team of three as scrum master to create a simulatable Farm. Users can see the actions taken on the farm in a given work week. Personally responsible for architecting UML design, utilities and interfaces, work week behavior, crops, vehicle, and CRUD classes.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### For More...
 
 Thank you for visiting my Github page! If you would like to see any other work I've done, please take a look at my main [Github Repository page](https://github.com/WilliamHXu/). 
