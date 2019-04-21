@@ -13,7 +13,7 @@ MyLeague is an app which allows users to connect in leagues and gives leagues ma
 
 #### [FLAW - TCP/IP Chat Application](https://github.com/WilliamHXu/angular-flaw)
 
-FLAW is a TCP/IP chat application done as a group project between my team mates **F**ransisco, **L**axmi, **A**lex, and **W**ill (myself). I lead the team in as tech lead and was personally responsible for creating message and all related classes as well as architecting the front-end design of the application.
+FLAW is a TCP/IP chat application done as a group project between my team mates **F**ransisco, **L**axmi, **A**lex, and myself, **W**ill. I led the team in as tech lead and was personally responsible for creating message and all related classes as well as architecting the front-end design of the application.
 
 [Angular](https://github.com/WilliamHXu/angular-flaw)
 
