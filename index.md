@@ -11,11 +11,11 @@ William is an aspiring software developer with a versatile skill set experienced
 
 MyLeague is an app which allows users to connect in leagues and gives leagues management tools to schedule, report matches, view standings, and organize their players. This is a full-stack development personal project.
 
-#### FLAW - TCP/IP Chat Application
+#### [FLAW - TCP/IP Chat Application](https://github.com/WilliamHXu/angular-flaw)
 
 FLAW is a TCP/IP chat application done as a group project between my team mates **F**ransisco, **L**axmi, **A**lex, and **W**ill (myself). I lead the team in as tech lead and was personally responsible for creating message and all related classes as well as architecting the front-end design of the application.
 
-[Angular](https://github.com/WilliamHXu/angular-flaw)
+[Angular] (https://github.com/WilliamHXu/angular-flaw)
 [Java/Spring] (https://github.com/WilliamHXu/FLAW-)
 
 #### [High Roller Casino](https://github.com/WilliamHXu/Maven.Casino)
