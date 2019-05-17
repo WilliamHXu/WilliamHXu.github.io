@@ -25,7 +25,7 @@ Led a team of five as a scrum master to complete a fully functional Java-based c
 
 #### [Farmer Froilan](https://github.com/WilliamHXu/Maven.FarmerFroilan)
 
-Led a team of three as scrum master to create a simulatable Farm. Users can see the actions taken on the farm in a given work week. Personally responsible for architecting UML design, utilities and interfaces, work week behavior, crops, vehicle, and CRUD classes.
+Led a team of three as scrum master to create a simulatable farm. Users can see the actions taken on the farm in a given work week. Personally responsible for architecting UML design, utilities and interfaces, work week behavior, crops, vehicle, and CRUD classes.
 
 ### For More...
 
