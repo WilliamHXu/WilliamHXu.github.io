@@ -2,7 +2,7 @@
 
 <img src="DSC_0849.JPG" width="200"/>
 
-William is an aspiring software developer with a versatile skill set experienced in Statistics, Mathematics and Economics.  A detail-oriented leader with proven success working in corporate financial environments with a data-first approach, a strong desire to help others, and a passion for problem-solving.
+William is an aspiring software developer with a versatile skill set experienced in Statistics, Mathematics and Economics.  A detail-oriented leader with proven success working in corporate financial environments with a data-first approach, a strong desire to help others, and a passion for problem-solving. When not working on upping his coding game, Will can be found on the courts leveling up his tennis skills or working with kids on improving their own ability to perform in math competitions.
 
 
 ### Projects
